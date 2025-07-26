@@ -7,7 +7,7 @@ An interactive, high-performance **Text-to-Image Generator** built during an IBM
 
 ### LIVE DEMO
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yozora13/Text-To-Image-Genrator-IBM/blob/main/Text‑To‑Image‑Generator.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yozora13/Text-To-Image-Genrator-IBM/blob/main/Text_to_image_genrator.ipynb)
 
 ---
 
