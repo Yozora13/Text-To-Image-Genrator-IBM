@@ -53,14 +53,15 @@ All models are downloaded and cached dynamically.
 ### PROJECT STRUCTURE
 
 Text-To-Image-Genrator-IBM/
-├── app/
-│ ├── main.py # Gradio routing + setup
-│ ├── model_handler.py # Model loading and switching
-│ └── utils.py # Utilities for memory & image management
-├── frontend/ # Inline HTML/CSS/JS via Gradio Blocks
-├── public/ # Saved generated image history
-├── Text-To-Image-Generator.ipynb # Main Colab notebook
-└── README.md
+↳ app/
+  ↳ main.py               # Gradio routing + setup
+  ↳ model_handler.py      # Model loading and switching logic
+  ↳ utils.py              # Utilities for memory & image management
+↳ frontend/               # Inline HTML/CSS/JS for custom UI (via Gradio Blocks)
+↳ public/                 # Stores saved/generated image history
+↳ Text-To-Image-Generator.ipynb  # Main Google Colab notebook
+↳ README.md              # Project overview
+
 ---
 
 ---
