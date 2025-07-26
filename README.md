@@ -51,7 +51,7 @@ All models are downloaded and cached dynamically.
 ---
 
 ### PROJECT STRUCTURE
-
+<pre>
 Text-To-Image-Genrator-IBM/
 ↳ app/
   ↳ main.py               # Gradio routing + setup
@@ -61,7 +61,7 @@ Text-To-Image-Genrator-IBM/
 ↳ public/                 # Stores saved/generated image history
 ↳ Text-To-Image-Generator.ipynb  # Main Google Colab notebook
 ↳ README.md              # Project overview
-
+</pre>
 ---
 
 ---
