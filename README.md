@@ -47,6 +47,7 @@ All models are downloaded and cached dynamically.
 ### UI PREVIEW
 
 > <img width="1457" height="858" alt="Screenshot 2025-07-27 090331" src="https://github.com/user-attachments/assets/1bf07e79-4ff9-4975-b95a-15be71e1603b" />
+<img width="1023" height="1077" alt="Screenshot 2025-07-27 091314" src="https://github.com/user-attachments/assets/693c8357-6af2-4ee0-b204-537ca7a437af" />
 
 ---
 
