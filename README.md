@@ -50,6 +50,13 @@ All models are downloaded and cached dynamically.
 <img width="1023" height="1077" alt="Screenshot 2025-07-27 091314" src="https://github.com/user-attachments/assets/693c8357-6af2-4ee0-b204-537ca7a437af" />
 
 ---
+### 🎥 VIDEO DEMO
+
+[![Watch the Demo](https://img.youtube.com/vi/u_VMPBMlY7g/0.jpg)](https://youtu.be/u_VMPBMlY7g)
+
+🔗 [**Watch on YouTube**](https://youtu.be/u_VMPBMlY7g)
+
+---
 
 ### PROJECT STRUCTURE
 <pre>
@@ -63,8 +70,6 @@ Text-To-Image-Genrator-IBM/
 ↳ Text-To-Image-Generator.ipynb  # Main Google Colab notebook
 ↳ README.md              # Project overview
 </pre>
----
-
 ---
 
 ### HOW TO RUN
